@@ -6308,6 +6308,9 @@ org.ws
 gov.ws
 edu.ws
 
+// cluster.ws : https://github.com/Olivr/free-domain
+cluster.ws
+
 // yt : https://www.afnic.fr/wp-media/uploads/2022/12/afnic-naming-policy-2023-01-01.pdf
 yt
 
@@ -10485,6 +10488,9 @@ betainabox.com
 // BinaryLane : http://www.binarylane.com
 // Submitted by Nathan O'Sullivan <nathan@mammoth.com.au>
 bnr.la
+
+// wip.la : https://github.com/Olivr/free-domain
+wip.la
 
 // Bitbucket : http://bitbucket.org
 // Submitted by Andy Ortlieb <aortlieb@atlassian.com>
